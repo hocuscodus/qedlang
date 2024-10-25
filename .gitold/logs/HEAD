@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 b466cc33d787e83db6e1c31282e708847bf190fb martin <martin@MartinSavage> 1728137234 -0400	clone: from https://github.com/hocuscodus/qed-lang
+b466cc33d787e83db6e1c31282e708847bf190fb 571f362dbc92814447eb0f589fe32fa73a0735d7 Martin Savage <m70savage@gmail.com> 1728137390 -0400	commit: New version with many bug fixes
+571f362dbc92814447eb0f589fe32fa73a0735d7 8939e5576cdb375c83270d24e154a3d8ddd56d37 Martin Savage <m70savage@gmail.com> 1728138695 -0400	checkout: moving from gh-pages to gh-pages-mmistakes
+8939e5576cdb375c83270d24e154a3d8ddd56d37 19fa93bf3cc67b104de79f1cd395fce99f2b61b5 Martin Savage <m70savage@gmail.com> 1728438682 +0000	commit: Good advances in tutorial
+19fa93bf3cc67b104de79f1cd395fce99f2b61b5 b179dcc137f2c41bdf2e8567383e5a5e4a9b916f Martin Savage <m70savage@gmail.com> 1729479612 +0000	commit: Getting closer....
+b179dcc137f2c41bdf2e8567383e5a5e4a9b916f 6697e23e52b9747fd25d65c8663f81ffdc4c722c Martin Savage <m70savage@gmail.com> 1729558105 +0000	commit: Tutorial improvements
+6697e23e52b9747fd25d65c8663f81ffdc4c722c 19d85085c7d0b823dc0aa59cef2a6caf452eeb3a Martin Savage <m70savage@gmail.com> 1729651156 +0000	commit: Fixes and improvements
+19d85085c7d0b823dc0aa59cef2a6caf452eeb3a fcb018c801e0215e80f699cd19fd469e5b8f56df Martin Savage <m70savage@gmail.com> 1729738978 +0000	commit: Getting there soon...
+fcb018c801e0215e80f699cd19fd469e5b8f56df 571f362dbc92814447eb0f589fe32fa73a0735d7 Martin Savage <m70savage@gmail.com> 1729739046 +0000	checkout: moving from gh-pages-mmistakes to gh-pages
+571f362dbc92814447eb0f589fe32fa73a0735d7 571f362dbc92814447eb0f589fe32fa73a0735d7 Martin Savage <m70savage@gmail.com> 1729739116 +0000	checkout: moving from gh-pages to first-version
+571f362dbc92814447eb0f589fe32fa73a0735d7 fcb018c801e0215e80f699cd19fd469e5b8f56df Martin Savage <m70savage@gmail.com> 1729739162 +0000	checkout: moving from first-version to gh-pages-mmistakes
+fcb018c801e0215e80f699cd19fd469e5b8f56df ec6ec72102f94734dbc4a80cfc3f537ff948d1d1 Martin Savage <m70savage@gmail.com> 1729822684 +0000	commit: Small fixes
+ec6ec72102f94734dbc4a80cfc3f537ff948d1d1 91abe54500da0e1c9d3d3779ca71f1684302371d Martin Savage <m70savage@gmail.com> 1729866115 +0000	commit: today
+91abe54500da0e1c9d3d3779ca71f1684302371d c8ef1caf27576b2fb33addf1a324c52447717ba4 Martin Savage <m70savage@gmail.com> 1729866340 +0000	commit: today...

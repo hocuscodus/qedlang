@@ -1,0 +1,20 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/hocuscodus/qed-lang
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "gh-pages"]
+	remote = origin
+	merge = refs/heads/gh-pages
+	vscode-merge-base = origin/gh-pages
+[branch "gh-pages-mmistakes"]
+	remote = origin
+	merge = refs/heads/gh-pages-mmistakes
+	vscode-merge-base = origin/gh-pages-mmistakes
+[branch "first-version"]
+	vscode-merge-base = origin/gh-pages
+	remote = origin
+	merge = refs/heads/first-version
